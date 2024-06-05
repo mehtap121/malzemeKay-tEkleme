@@ -1,3 +1,4 @@
+Ben Mehtap Akkaya Bandırma Onyedi Eylül Üniversitesi bilgisayar programcılığı 1.sınıf öğrencisiyim.
+Atmış olduğum kod dizisi SQL de tablo verilerini c# formda datagridview da verileri çekip ekler siler ve günceller.
 
- ![Uploading Purple Pastel Cute Playful August 2023 Calendar Organizer Desktop Wallpaper.png…]()
 
